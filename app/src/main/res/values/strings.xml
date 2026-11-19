@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">تشطيب 160</string>
+    <string name="app_subtitle">ميزانية تشطيب شقة 160 م²</string>
+    <string name="nav_dashboard">الرئيسية</string>
+    <string name="nav_expenses">المصروفات</string>
+    <string name="nav_contractors">المقاولون</string>
+    <string name="nav_reports">التقارير</string>
+    <string name="quick_add_expense">مصروف سريع</string>
+    <string name="currency_egp">ج.م</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "تشطيب 160",
+  "description": "تطبيق أوفلاين لإدارة ومتابعة مصروفات وميزانية تشطيب شقة سكنية 160 م² وحسابات المقاولين باللغة العربية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
